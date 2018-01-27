@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HodlerStreet</title>
+  
+  <subtitle>HodlerStreet</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hodlerstreet.com/"/>
+  <updated>2018-01-27T15:02:32.634Z</updated>
+  <id>http://hodlerstreet.com/</id>
+  
+  <author>
+    <name>HodlerStreet</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Is Hashgraph the Thanos of the Crypto Universe?</title>
+    <link href="http://hodlerstreet.com/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/"/>
+    <id>http://hodlerstreet.com/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/</id>
+    <published>2018-01-27T14:05:49.000Z</published>
+    <updated>2018-01-27T15:02:32.634Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;While browsing through the
+        
+      
+    
+    </summary>
+    
+      <category term="Technology" scheme="http://hodlerstreet.com/categories/Technology/"/>
+    
+    
+      <category term="Hashgraph" scheme="http://hodlerstreet.com/tags/Hashgraph/"/>
+    
+      <category term="technology" scheme="http://hodlerstreet.com/tags/technology/"/>
+    
+      <category term="data structure" scheme="http://hodlerstreet.com/tags/data-structure/"/>
+    
+      <category term="DAG" scheme="http://hodlerstreet.com/tags/DAG/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>What is the INS token and why it is doomed.</title>
+    <link href="http://hodlerstreet.com/Coin-Review/what-is-the-ins-token-and-why-it-is-doomed/"/>
+    <id>http://hodlerstreet.com/Coin-Review/what-is-the-ins-token-and-why-it-is-doomed/</id>
+    <published>2018-01-17T15:23:35.000Z</published>
+    <updated>2018-01-17T15:53:03.767Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt; Disclaimer : &lt;/strong&gt;The coins I write about are my personal opinion. Invest in them at your own risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Coin-Review" scheme="http://hodlerstreet.com/categories/Coin-Review/"/>
+    
+    
+      <category term="Cryptocurrency" scheme="http://hodlerstreet.com/tags/Cryptocurrency/"/>
+    
+      <category term="Coin Review" scheme="http://hodlerstreet.com/tags/Coin-Review/"/>
+    
+      <category term="INS coin" scheme="http://hodlerstreet.com/tags/INS-coin/"/>
+    
+      <category term="INS" scheme="http://hodlerstreet.com/tags/INS/"/>
+    
+      <category term="Binance" scheme="http://hodlerstreet.com/tags/Binance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Which are the best exchanges for an Indian to buy Cryptos?</title>
+    <link href="http://hodlerstreet.com/Opinion/which-are-the-best-exchanges-for-an-indian-to-buy-cryptos/"/>
+    <id>http://hodlerstreet.com/Opinion/which-are-the-best-exchanges-for-an-indian-to-buy-cryptos/</id>
+    <published>2018-01-08T05:45:42.000Z</published>
+    <updated>2018-01-08T05:58:22.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;So a lot of fuzz has been circulating quite a while now in the Indian media about the cryptocurrency and its rise in value. And it is no
+        
+      
+    
+    </summary>
+    
+      <category term="Opinion" scheme="http://hodlerstreet.com/categories/Opinion/"/>
+    
+    
+      <category term="Exchange" scheme="http://hodlerstreet.com/tags/Exchange/"/>
+    
+      <category term="Bitfinex" scheme="http://hodlerstreet.com/tags/Bitfinex/"/>
+    
+      <category term="Bittrex" scheme="http://hodlerstreet.com/tags/Bittrex/"/>
+    
+      <category term="Indian Exchange" scheme="http://hodlerstreet.com/tags/Indian-Exchange/"/>
+    
+      <category term="Ethereum" scheme="http://hodlerstreet.com/tags/Ethereum/"/>
+    
+      <category term="Coinbase" scheme="http://hodlerstreet.com/tags/Coinbase/"/>
+    
+      <category term="Throughbit" scheme="http://hodlerstreet.com/tags/Throughbit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction to Hardware Wallet in Crypto World</title>
+    <link href="http://hodlerstreet.com/Wallets/introduction-to-hardware-wallet-in-crypto-world/"/>
+    <id>http://hodlerstreet.com/Wallets/introduction-to-hardware-wallet-in-crypto-world/</id>
+    <published>2018-01-07T11:00:00.000Z</published>
+    <updated>2018-01-09T15:13:20.382Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;A hardware wallet is a special type of crypto
+        
+      
+    
+    </summary>
+    
+      <category term="Wallets" scheme="http://hodlerstreet.com/categories/Wallets/"/>
+    
+    
+      <category term="Crypto Wallet" scheme="http://hodlerstreet.com/tags/Crypto-Wallet/"/>
+    
+      <category term="Hardware Wallet" scheme="http://hodlerstreet.com/tags/Hardware-Wallet/"/>
+    
+      <category term="Trezor" scheme="http://hodlerstreet.com/tags/Trezor/"/>
+    
+      <category term="Ledger Nano S" scheme="http://hodlerstreet.com/tags/Ledger-Nano-S/"/>
+    
+      <category term="Security" scheme="http://hodlerstreet.com/tags/Security/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How serious should a hodler follow McAfee?</title>
+    <link href="http://hodlerstreet.com/Opinion/how-serious-should-a-hodler-follow-mcafee/"/>
+    <id>http://hodlerstreet.com/Opinion/how-serious-should-a-hodler-follow-mcafee/</id>
+    <published>2018-01-07T08:17:45.000Z</published>
+    <updated>2018-01-09T15:08:52.553Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Someone who has been in the cryptocurrency space sometime now, must have seen McAfee being a dominant figure. The guy is definitely a
+        
+      
+    
+    </summary>
+    
+      <category term="Opinion" scheme="http://hodlerstreet.com/categories/Opinion/"/>
+    
+    
+      <category term="Crypto" scheme="http://hodlerstreet.com/tags/Crypto/"/>
+    
+      <category term="Hodlerstreet" scheme="http://hodlerstreet.com/tags/Hodlerstreet/"/>
+    
+      <category term="Hodler" scheme="http://hodlerstreet.com/tags/Hodler/"/>
+    
+      <category term="McAfee" scheme="http://hodlerstreet.com/tags/McAfee/"/>
+    
+      <category term="Bitcoin" scheme="http://hodlerstreet.com/tags/Bitcoin/"/>
+    
+      <category term="Cryptocurrency" scheme="http://hodlerstreet.com/tags/Cryptocurrency/"/>
+    
+      <category term="Blockchain" scheme="http://hodlerstreet.com/tags/Blockchain/"/>
+    
+  </entry>
+  
+</feed>
