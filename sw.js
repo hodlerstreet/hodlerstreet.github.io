@@ -24,6 +24,8 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/Coin-Review/is-ethos-the-answer-to-key-management-problem/');
+
   precacheUrls.push('/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/');
 
   precacheUrls.push('/Coin-Review/what-is-the-ins-token-and-why-it-is-doomed/');
@@ -31,8 +33,6 @@ var precacheUrls = [];
   precacheUrls.push('/Opinion/which-are-the-best-exchanges-for-an-indian-to-buy-cryptos/');
 
   precacheUrls.push('/Wallets/introduction-to-hardware-wallet-in-crypto-world/');
-
-  precacheUrls.push('/Opinion/how-serious-should-a-hodler-follow-mcafee/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
