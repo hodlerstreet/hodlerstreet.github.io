@@ -7,22 +7,22 @@
     </url>
     
     <url>
-        <loc>http://hodlerstreet.com/contact/</loc>
-        <lastmod>2018-01-12T15:06:10.753Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://hodlerstreet.com/coming/</loc>
-        <lastmod>2018-01-07T11:22:11.194Z</lastmod>
+        <loc>http://hodlerstreet.com/store/</loc>
+        <lastmod>2018-02-15T15:38:45.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://hodlerstreet.com/about/</loc>
-        <lastmod>2018-01-06T19:08:01.416Z</lastmod>
+        <lastmod>2018-02-15T15:29:53.918Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://hodlerstreet.com/contact/</loc>
+        <lastmod>2018-01-12T15:06:10.753Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

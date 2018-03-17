@@ -7,20 +7,6 @@
     </url>
 
     <url>
-        <loc>http://hodlerstreet.com/categories/Technology/</loc>
-        <lastmod>2018-02-06T08:38:54.291Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/categories/Opinion/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://hodlerstreet.com/categories/Coin-Review/</loc>
         <lastmod>2018-02-06T08:39:02.624Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,6 +16,20 @@
     <url>
         <loc>http://hodlerstreet.com/categories/Wallets/</loc>
         <lastmod>2018-02-09T05:17:45.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/categories/Technology/</loc>
+        <lastmod>2018-03-16T15:55:16.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/categories/Opinion/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

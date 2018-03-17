@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/Opinion/how-to-earn-from-crypto-with-zero-investment/');
+
+  precacheUrls.push('/Technology/daico-is-this-the-next-generation-ico/');
+
   precacheUrls.push('/Coin-Review/is-ethos-the-answer-to-key-management-problem/');
 
   precacheUrls.push('/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/');
 
   precacheUrls.push('/Coin-Review/what-is-the-ins-token-and-why-it-is-doomed/');
-
-  precacheUrls.push('/Opinion/which-are-the-best-exchanges-for-an-indian-to-buy-cryptos/');
-
-  precacheUrls.push('/Wallets/introduction-to-hardware-wallet-in-crypto-world/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};

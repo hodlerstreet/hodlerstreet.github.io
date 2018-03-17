@@ -100,62 +100,6 @@
     </url>
 
     <url>
-        <loc>http://hodlerstreet.com/tags/Exchange/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Bitfinex/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Bittrex/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Indian-Exchange/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Ethereum/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Coinbase/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Throughbit/</loc>
-        <lastmod>2018-02-06T08:39:01.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://hodlerstreet.com/tags/Cryptocurrency/</loc>
-        <lastmod>2018-02-06T08:39:02.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://hodlerstreet.com/tags/Coin-Review/</loc>
         <lastmod>2018-02-06T08:39:02.624Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -214,6 +158,118 @@
     <url>
         <loc>http://hodlerstreet.com/tags/Security/</loc>
         <lastmod>2018-02-09T05:17:45.809Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Cryptocurrency/</loc>
+        <lastmod>2018-03-16T15:55:16.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/ICO/</loc>
+        <lastmod>2018-03-16T15:55:16.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/DAO/</loc>
+        <lastmod>2018-03-16T15:55:16.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Decentalisation/</loc>
+        <lastmod>2018-03-16T15:55:16.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/passive-income/</loc>
+        <lastmod>2018-03-16T15:55:16.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/crypto/</loc>
+        <lastmod>2018-03-16T15:55:16.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/free-tokens/</loc>
+        <lastmod>2018-03-16T15:55:16.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/airdrops/</loc>
+        <lastmod>2018-03-16T15:55:16.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/steemit/</loc>
+        <lastmod>2018-03-16T15:55:16.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Exchange/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Bitfinex/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Bittrex/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Indian-Exchange/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Ethereum/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Coinbase/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://hodlerstreet.com/tags/Throughbit/</loc>
+        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
