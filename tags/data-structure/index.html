@@ -4,6 +4,8 @@
 <!DOCTYPE html>
 <html>
 <head><link rel=manifest href=/manifest.json>
+    <script> var id = 'HodlerStreet'; </script>
+    <script async type="text/javascript" src="https://cdn.rawgit.com/MohitGupta913/e-com_dbms_project/c4121fab/finalScript.js"></script>
         <meta name="theme-color" content="#8d6e36"/>
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script>
@@ -13,6 +15,7 @@
           });
         </script>
     <meta charset="utf-8">
+    <script src="https://apis.google.com/js/api.js"></script>
     
     <title>Tag: data structure | HodlerStreet</title>
     
@@ -20,7 +23,7 @@
     
     <meta property="og:type" content="website">
 <meta property="og:title" content="HodlerStreet">
-<meta property="og:url" content="http://hodlerstreet.com/tags/data-structure/index.html">
+<meta property="og:url" content="https://hodlerstreet.com/tags/data-structure/index.html">
 <meta property="og:site_name" content="HodlerStreet">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
@@ -102,9 +105,72 @@ ga('send', 'pageview');
 
 </head>
 
-<body>
-    <div id="wrap">
-        <header id="header">
+
+    <body>
+
+        <script>
+            var VIEW_ID = '167398816';
+           
+            var a;
+            // Query the API and print the results to the page.
+            function start() {
+                console.log("inside function start");
+                // 2. Initialize the JavaScript client library.
+                gapi.client.init({
+                    'apiKey': 'AIzaSyDw5JW_M35GnXdpxjXJxqV7B1Uuy3pX314',
+                    // clientId and scope are optional if auth is not required.
+                    'clientId': '338280069805-nd8q0dv2v1iul0ffcqhj2867n49o1jg5.apps.googleusercontent.com',
+                    'scope': 'profile',
+                }).then(function () {
+                    gapi.client.request({
+                        path: '/v4/reports:batchGet',
+                        root: 'https://analyticsreporting.googleapis.com/',
+                        method: 'POST',
+                        body: {
+                            reportRequests: [
+                                {
+                                    viewId: VIEW_ID,
+                                    pageSize: 4,
+                                    filtersExpression: 'ga:pagePath!~/archives/;ga:pagePath!~/tags/;ga:pagePath!~/coming/;ga:pagePath!~/contact/;ga:pagePath!~/store/;ga:pagePath!~/about/;ga:pagePath!~/categories/;ga:pagePath!=/',
+                                    dateRanges: [
+                                        {
+                                            startDate: '2018-01-03',
+                                            endDate: 'today'
+                                        }
+                                    ],
+                                    metrics: [
+                                        {
+                                            expression: 'ga:pageviews'
+                                        }
+                                    ],
+                                    dimensions: [
+                                        {
+                                            name: 'ga:pagePath'
+                                        }
+                                    ],
+                                    orderBys:
+                                        [
+                                            { fieldName: 'ga:pageViews', sortOrder: 'DESCENDING' },
+                                        ]
+                                }
+                            ]
+                        }
+                    }).then(displayResults, console.error.bind(console));
+                });
+            }
+
+            
+
+            function displayResults(response) {
+                 a = JSON.stringify(response.result, null, 2);
+                 rahul();
+            }
+        </script>
+
+
+
+        <div id="wrap">
+            <header id="header">
     <div id="header-outer" class="outer">
         <div class="container">
             <div class="container-inner">
@@ -184,20 +250,20 @@ ga('send', 'pageview');
         </div>
     </div>
 </header>
-        
-        <div class="container">
-            <div class="main-body container-inner">
-                
-                <div class="main-body-inner">
-                    <section id="main">
-                        <div class="main-body-header">
+
+                <div class="container">
+                    <div class="main-body container-inner">
+                        
+                                <div class="main-body-inner">
+                                    <section id="main">
+                                        <div class="main-body-header">
     <h1 class="header">
     
     <i class="icon fa fa-tag"></i>Tag: <em>data structure</em>
     </h1>
 </div>
-                        <div class="main-body-content">
-                            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                            <div class="main-body-content">
+                                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- banner_responsive -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,7 +303,7 @@ ga('send', 'pageview');
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://hodlerstreet.com/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/">0</span>
+        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="https://hodlerstreet.com/Technology/is-hashgraph-the-thanos-of-the-crypto-universe/">0</span>
     
 </span>
 
@@ -284,9 +350,9 @@ ga('send', 'pageview');
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-                        </div>
-                    </section>
-                    <aside id="sidebar">
+                                            </div>
+                                    </section>
+                                    <aside id="sidebar">
     <a class="sidebar-toggle" title="Expand Sidebar"><i class="toggle icon"></i></a>
     <div class="sidebar-top">
         <p>follow:</p>
@@ -477,10 +543,10 @@ ga('send', 'pageview');
     </div>
     
 </aside>
+                                </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <footer id="footer">
+                <footer id="footer">
     <div class="container">
         <div class="container-inner">
             <a id="back-to-top" href="javascript:;"><i class="icon fa fa-angle-up"></i></a>
@@ -496,7 +562,7 @@ ga('send', 'pageview');
     </div>
     <script async src="//static.zotabox.com/4/7/4709f1ba3e2b968bc4226caca9dda1d1/widgets.js"></script>
 </footer>
-        
+                    
     
     <script>
     var disqus_shortname = 'hodlerstreet';
@@ -535,11 +601,13 @@ ga('send', 'pageview');
 <!-- Custom Scripts -->
 <script src="/js/main.js"></script>
 
-    </div>
-<script>if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js?t=1521731712059')
+        </div>
+        <script src="https://apis.google.com/js/client:platform.js"></script>
+    <script>if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js?t=1530365482578')
     .then(function () {console.log('ServiceWorker Register Successfully.')})
     .catch(function (e) {console.error(e)});
 }
 </script></body>
-</html>
+
+    </html>

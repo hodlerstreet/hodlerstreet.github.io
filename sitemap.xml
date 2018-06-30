@@ -2,23 +2,23 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://hodlerstreet.com/post-sitemap.xml</loc>
-        <lastmod>2018-03-17T08:02:48.527Z</lastmod>
+        <loc>https://hodlerstreet.com/post-sitemap.xml</loc>
+        <lastmod>2018-03-17T08:02:48.528Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://hodlerstreet.com/page-sitemap.xml</loc>
-        <lastmod>2018-02-15T15:38:45.074Z</lastmod>
+        <loc>https://hodlerstreet.com/page-sitemap.xml</loc>
+        <lastmod>2018-06-21T09:04:57.907Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://hodlerstreet.com/category-sitemap.xml</loc>
+        <loc>https://hodlerstreet.com/category-sitemap.xml</loc>
         <lastmod>2018-02-06T08:39:02.624Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://hodlerstreet.com/tag-sitemap.xml</loc>
-        <lastmod>2018-02-06T08:38:54.291Z</lastmod>
+        <loc>https://hodlerstreet.com/tag-sitemap.xml</loc>
+        <lastmod>2018-02-06T08:38:54.292Z</lastmod>
     </sitemap>
 
 </sitemapindex>
